@@ -37,6 +37,8 @@ You can handle your **Google Drive** files ***more convenient than before***.
     - **Remove Bitstream Metadata**
     - **Encode H.264 | CRF**
     - **Encode H.264 | 2-Pass**
+    - **HDR to SDR**
+    - **HDR10 Encoding**
 - **H.264 Encoder**
     - **H.264 | CRF**
     - **H.264 | 2-Pass**
@@ -51,8 +53,6 @@ You can handle your **Google Drive** files ***more convenient than before***.
 - **Mutagen**
     - **FLAC**
     - **MP4 / M4A**
-<br>
-<br>
 <br>
 
 <p align="center">
