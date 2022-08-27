@@ -135,7 +135,7 @@ You can handle your __Google Drive__ files __more convenient than before__.
 * Only `x265`/`HEVC` tracks are supported.
 * `extractColors`: View the color information of the footage.
 * When encoding, make sure `extractColors` is **deselected**.
-## __H.264 Encoder__ -- <img width=20 alt="x264-Logo" src=https://raw.githubusercontent.com/dropcreations/Essential-Google-Colab-Notebook/main/cell_logos/x264-Logo.png></img>
+## __H.264 Encoder__
 * This encodes **video track** only.
 * Use ffmpeg or any other to **merge** video with audios.
 * Run cell to **install** x264.
