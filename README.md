@@ -3,11 +3,11 @@
 All __Essential Cells__ in one Google Colab Notebook!.
 You can handle your __Google Drive__ files __more convenient than before__.
 
-<a href="https://colab.research.google.com/github/dropcreations/Essential-Google-Colab-Notebook/blob/main/All_in_One_Colab_Notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+<a href="https://colab.research.google.com/github/dropcreations/Essential-Google-Colab-Notebook/blob/main/All-in-One-Colab-Notebook.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
 <br>
 - Click on the __"Open in Colab"__ button to open this notebook in google colab
 
-## __Mount Google Drive__ -- <img width=20 alt="Google-Drive-Logo" src=https://raw.githubusercontent.com/dropcreations/Essential-Google-Colab-Notebook/main/cell_logos/Google-Drive-Logo.png></img>
+## __Mount Google Drive__
 - You can mount and unmount your Google Drive to the runtime.
 ## __Manage Files & Folders__
 - You can manage your folders and files with below cells.
@@ -38,7 +38,7 @@ You can handle your __Google Drive__ files __more convenient than before__.
 * This will show the size of **folders and sub folders only**. to view all files **select** `viewContent`.
 * `modificationTime` : Use this to **view time information** of files.
 * If `Summary` is selected, only shows the **total size** of the folder, So ***uncheck*** it to use `viewContent` option.
-## __7-Zip__ -- <img width=20 alt="7zip-Logo" src=https://raw.githubusercontent.com/dropcreations/Essential-Google-Colab-Notebook/main/cell_logos/7zip-Logo.png></img>
+## __7-Zip__
 - 7zip archiving program in colab.
 ### __Compress Files and Folders__
 * Create **zip, tar, 7z, gz, bz2, xz, wim** files.
@@ -63,9 +63,9 @@ You can handle your __Google Drive__ files __more convenient than before__.
 * Transfer files from **direct links** to google drive.
 * Enter the folder path where you want to save the file.
 * Run cell to add direct link.
-#### __JDownloader__ -- <img width=20 alt="JDownloader-Logo" src=https://raw.githubusercontent.com/dropcreations/Essential-Google-Colab-Notebook/main/cell_logos/JDownloader-Logo.png></img>
+#### __JDownloader__
 * Run cell to install **JDownloader** to get **WEB-UI**.
-### __Transfer files from MEGA__ -- <img width=20 alt="Mega-Logo" src=https://raw.githubusercontent.com/dropcreations/Essential-Google-Colab-Notebook/main/cell_logos/Mega-Logo.png></img>
+### __Transfer files from MEGA__
 * Run cell to **start** transfer.
 * If you have a **Mega Pro** account, select `megaProAccount` to **sign in** to use its bandwidth (transfer quota)
 * You can also add a **public link** without a Pro account, but it has **transfer limits**.
@@ -77,7 +77,7 @@ You can handle your __Google Drive__ files __more convenient than before__.
 * `savePath`: add folder path where you want to download.
 * `torrentFile`: use a torrent file to download.
 * `magnetLink`: use a magnet link to download.
-#### __qBittorrent__ -- <img width=20 alt="qBittorrent-Logo" src=https://raw.githubusercontent.com/dropcreations/Essential-Google-Colab-Notebook/main/cell_logos/qBittorrent-Logo.png></img>
+#### __qBittorrent__
 * Run cell to install qBittorrent to get **WEB-UI**.
 ### __Redsea Tidal Downloader__
 * Enter folder path where you want to **save** files.
@@ -99,7 +99,7 @@ You can handle your __Google Drive__ files __more convenient than before__.
 * You can use explore or search, **not both at once**.
 * If you have **already cloned and used** Redsea reop, enter the "**RedSea**" folder path and run below cell.
 * Then you can run cells again **without authentication**. **[Session & Download cells]**
-### __youtube-dl__ -- <img width=20 alt="youtube-dl-Logo" src=https://raw.githubusercontent.com/dropcreations/Essential-Google-Colab-Notebook/main/cell_logos/youtube-dl-Logo.png></img>
+### __youtube-dl__
 * `videoLink`: YouTube and other supported website URLs are working.
 * `outputFolder`: Set the download directory.
 * `Preset`: All presets are working for YouTube URLs, but if you entering an another website's URL set `Preset: Choose Codecs`.
@@ -107,9 +107,9 @@ You can handle your __Google Drive__ files __more convenient than before__.
 * `mergeFile`: Merge final output to an another container format.
 * `viewFormats`: You can view all available formats to download.
 * Please uncheck `viewFormats` while downloading.
-## __Mediainfo__ -- <img width=20 alt="Mediainfo-Logo" src=https://raw.githubusercontent.com/dropcreations/Essential-Google-Colab-Notebook/main/cell_logos/Mediainfo-Logo.png></img>
+## __Mediainfo__
 * Run cell to **get** mediainfo.
-## __FFmpeg__ -- <img width=20 alt="FFmpeg-Logo" src=https://raw.githubusercontent.com/dropcreations/Essential-Google-Colab-Notebook/main/cell_logos/FFmpeg-Logo.png></img>
+## __FFmpeg__
 * Run cell to **Install** FFmpeg.
 ### __Remux Video Files__
 * **REMUX** video files without **RE-ENCODING**.
@@ -142,7 +142,7 @@ You can handle your __Google Drive__ files __more convenient than before__.
 * Set `inputFile` and `outputFolder`.
 * This cell is taking the output name as same as the input filename. So, you need to set the output folder only.
 * Change **settings** as you want.
-## __MP4Box__ -- <img width=20 alt="GPAC-MP4Box-Logo" src=https://raw.githubusercontent.com/dropcreations/Essential-Google-Colab-Notebook/main/cell_logos/GPAC-MP4Box-Logo.png></img>
+## __MP4Box__
 * Run cell to **install** MP4Box.
 ### __Create MP4/M4A Files__
 * Enter **tracks** while running the cell.
@@ -152,7 +152,7 @@ You can handle your __Google Drive__ files __more convenient than before__.
 * Enter **MP4 or M4A** file path in **`inputFile`**.
 * `updateFile`: Update the exsisting file with tags.
 * Recommended to use **Mutagen MP4/M4A tagger** for advanced use.
-## __MKVToolNix__ -- <img width=20 alt="MKVToolNix-Logo" src=https://raw.githubusercontent.com/dropcreations/MKVToolNix-in-Google-Colab/main/MKVToolNix-Logo.png></img>
+## __MKVToolNix__
 * Run cell to **install** MKVToolNix.
 * You can use any version, to do that enter the version correctly in `Version`.
 ### __mkvmerge__
@@ -183,7 +183,7 @@ You can handle your __Google Drive__ files __more convenient than before__.
 > `Tag name 1: Tag value 1, Tag value 2, Tag value 3`<br>
 > `Tag name 2: Tag value 1, Tag value 2, Tag value 3`<br>
 * Explainations are available while running the cell.
-## __Mutagen__ -- <img width=20 alt="Mutagen-Logo" src=https://raw.githubusercontent.com/dropcreations/Essential-Google-Colab-Notebook/main/cell_logos/Mutagen-Logo.png></img>
+## __Mutagen__
 * Mutagen is a python based multimedia **tagging** library.
 * Run cell to **install** Mutagen.
 ### __FLAC__
