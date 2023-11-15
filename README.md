@@ -79,26 +79,6 @@ You can handle your __Google Drive__ files __more convenient than before__.
 * `magnetLink`: use a magnet link to download.
 #### __qBittorrent__
 * Run cell to install qBittorrent to get **WEB-UI**.
-### __Redsea Tidal Downloader__
-* Enter folder path where you want to **save** files.
-* Run cell to **clone** and **install** dependencies for Redsea respository.
-* Run cell to manage **sessions**.
-* `list` - Lists stored sessions if any exist.
-* `remove` - Removes a stored session from the sessions file by name.
-* `default` - Set a default account for redsea to use when the -a flag has not been passed.
-* `reauth` - Reauthenticates with server to get new sessionId.
-* `add` - Prompts for a TV, Mobile or Desktop session. The TV option displays a 6 digit key which should be entered inside link.tidal.com where the user can login. The Mobile/Desktop option prompts for a Tidal username and password. Both options authorize a session which then gets stored in the sessions file.
-* Enter **sessionName** that you created in above cell.
-* Enter **album/track/playlist/video link** or **links** to download.
-* Separate multiple urls by **spaces**.
-> **eg:** `url: [url_01] [url_02] [url_03] [url_04]...`
-* Files will be in **"RedSea/downloads"** in your save location.
-* You can **explore** for available **atmos / 360 albums and tracks**.
-* Check "explore" and select a "**explore_type**".
-* You can also search for **track/album/video**, use **search options**.
-* You can use explore or search, **not both at once**.
-* If you have **already cloned and used** Redsea reop, enter the "**RedSea**" folder path and run below cell.
-* Then you can run cells again **without authentication**. **[Session & Download cells]**
 ### __youtube-dl__
 * `videoLink`: YouTube and other supported website URLs are working.
 * `outputFolder`: Set the download directory.
